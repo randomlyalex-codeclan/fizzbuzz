@@ -5,6 +5,7 @@ def Fizzbuzz(number):
         return "Buzz"
     elif number == 15:
         return "FizzBuzz"
-
+    else:
+        return str(number)
 
  
